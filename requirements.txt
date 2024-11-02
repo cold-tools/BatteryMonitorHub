@@ -1,0 +1,9 @@
+streamlit           # For the web app framework
+wmi                 # For accessing Windows Management Instrumentation data
+pandas              # For data manipulation and DataFrame handling
+pyarrow             # For saving data in Parquet format
+plotly
+psutil
+beautifulsoup4
+streamlit_autorefresh 
+qrcode
